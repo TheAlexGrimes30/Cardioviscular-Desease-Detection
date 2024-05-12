@@ -3,4 +3,5 @@
 Тема: Распознавание сердечно-сосудистых заболеваний
 
 Наилучший score: 0.734000027179718 
-Ссылка на соревнование в Kaggle: https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset
+
+# Ссылка на соревнование в Kaggle: https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset
